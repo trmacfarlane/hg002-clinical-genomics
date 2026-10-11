@@ -1,0 +1,9 @@
+*.fastq*
+*.bam*
+*.bai
+*.cram*
+*.vcf*
+*.bed*
+work/
+results/
+.nextflow*
